@@ -1,1 +1,4 @@
-*.Zone.Identifier
+# Ignore large downloaded reference directories
+references/awesome-gpt-image-2-prompts/images/
+# Ignore downloaded zip
+*.zip

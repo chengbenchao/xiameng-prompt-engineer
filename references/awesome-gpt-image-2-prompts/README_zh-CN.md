@@ -3040,4 +3040,3 @@ Generate an image of the most significant event of 2001
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-prompts&Date)
-

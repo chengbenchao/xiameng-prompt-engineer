@@ -244,6 +244,4 @@ description: >
 *   **多图拼版指南**(S11 场景详细规则):`references/multi-panel-guide.md`
 *   **GPT-Image-2 转换层**(社区案例转 MJ 适配):`references/gpt2-midjourney-converter.md`
 *   **标杆提示词库**(S1-S11 范文):`references/prompt-database/`
-*   **服装库索引**(品类导航):`references/costume-library/_index.md` - 根据关键词定位品类和具体条目
-*   **服装库**(可复用服装描述段落):`references/costume-library/` - 按品类拆分:ancient(古装C01-C15)/modern(现代C16-C30)/professional(待建)/sport(待建)/scifi(待建)。用户提及服装/穿搭时查阅索引→定位品类→直接复制对应描述入第7维主体
-
+*   **服装库**(可复用服装描述段落):`references/costume-library.md` - 用户提及服装/穿搭时查阅,直接复制对应描述入第7维主体

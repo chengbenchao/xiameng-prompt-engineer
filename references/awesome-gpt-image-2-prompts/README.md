@@ -3173,4 +3173,3 @@ If you have more interesting GPT-Image-2 prompt cases to share, feel free to rea
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-gpt-image-2-prompts&Date)
-
