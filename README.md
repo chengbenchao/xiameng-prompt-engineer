@@ -4,7 +4,21 @@
 > 基于影视工业级 SOP 的 AI 绘画提示词生成 Skill。
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/)
+[![Version](https://img.shields.io/badge/Version-v3.1-blue.svg)](https://github.com/chengbenchao/xiameng-prompt-engineer)
+
+## 📦 版本说明
+
+**当前最新版本：v3.1 (2026-04-28)**
+
+### 版本迭代规则
+- `vX.Y.Z` 语义化版本：
+  - `X` 大版本：核心架构重构、新增重磅功能/场景
+  - `Y` 中版本：新增功能、场景扩充、服装库新增3套以上
+  - `Z` 小版本：bug修复、参数优化、单套服装更新、资源补全
+
+### 更新日志
+- **v3.1 (2026-04-28)**：服装库扩充至17套，补全C01/C03/C04/C05/C08参考示例图，新增GPT-Image-2标杆案例库
+- **v3.0 (2026-04-27)**：新增自然语言快速模式、S9-S11场景、多图拼版功能，标杆库升级为GPT-Image-2混合案例
 
 ## ✨ 核心特性
 
