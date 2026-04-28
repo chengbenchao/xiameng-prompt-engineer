@@ -66,9 +66,11 @@
 ```
 
 **参考示例图：**
-`references/images/C02_桃花刺绣粉色广袖仙裙_三视角实物参考图.png`（三视角带模特上身效果参考）
-`references/images/C02_桃花刺绣粉色广袖仙裙_纯服装正视图参考图.png`（纯服装平铺正视图细节参考）
-`references/images/C02_桃花刺绣粉色广袖仙裙_生成参考图1.jpg`（静态上身效果参考）
+`references/images/C02_桃花刺绣粉色广袖仙裙_实物参考图.jpg`（实物正视图参考，版型、刺绣细节对齐参考）
+`references/images/C02_桃花刺绣粉色广袖仙裙_动态实物参考图.jpg`（动态上身效果参考，裙摆、大袖飘逸感参考）
+`references/images/C02_桃花刺绣粉色广袖仙裙_参考示例1.jpg`（静态生成效果参考1）
+`references/images/C02_桃花刺绣粉色广袖仙裙_参考示例2.jpg`（静态生成效果参考2）
+`references/images/C02_桃花刺绣粉色广袖仙裙_参考示例3.jpg`（动态生成效果参考）
 
 ---
 
