@@ -1,0 +1,30 @@
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# 临时媒体文件（上传过程中缓存的图片，不用同步）
+media/inbound/*
+temp/*
+tmp/*
+
+# 本地缓存/日志/草稿
+*.log
+*.cache
+*.tmp
+*.bak
+draft*.md
+草稿*.md
+
+# 敏感配置文件
+.env
+config.local.js
+secret*.json
+keys/*
+
+# 导出的临时生成图片/素材
+output/*
+export/*
+render/*
