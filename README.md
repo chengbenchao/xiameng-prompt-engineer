@@ -4,11 +4,11 @@
 > 基于影视工业级 SOP 的 AI 绘画提示词生成 Skill。
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-v3.1-blue.svg)](https://github.com/chengbenchao/xiameng-prompt-engineer)
+[![Version](https://img.shields.io/badge/Version-v4.0-blue.svg)](https://github.com/chengbenchao/xiameng-prompt-engineer)
 
 ## 📦 版本说明
 
-**当前最新版本：v3.1 (2026-04-28)**
+**当前最新版本：v4.0 (2026-04-29)**
 
 ### 版本迭代规则
 - `vX.Y.Z` 语义化版本：
@@ -17,6 +17,10 @@
   - `Z` 小版本：bug修复、参数优化、单套服装更新、资源补全
 
 ### 更新日志
+- **v4.0 (2026-04-29)**：🚀 **场景库大重构** — 新增 **6 大风格系列 / 31 个全新场景**（S12-S42），场景总数达 **42+**
+  - 新增仙侠奇幻 (S12-S20)、武侠江湖 (S21-S26)、赛博古风 (S27-S30)、江南园林 (S31-S35)、日式和风 (S36-S41)、科幻史诗 (S42)
+  - 目录结构重构：按风格系列分文件夹管理 (01-classic/02-general/03-xianxia/...)
+  - 更新 `core-rules.md` 新增系列参数表、更新 `SKILL.md` 场景匹配路由逻辑
 - **v3.1 (2026-04-28)**：服装库扩充至17套，补全C01/C03/C04/C05/C08参考示例图，新增GPT-Image-2标杆案例库
 - **v3.0 (2026-04-27)**：新增自然语言快速模式、S9-S11场景、多图拼版功能，标杆库升级为GPT-Image-2混合案例
 
@@ -26,7 +30,7 @@
 - **🛡️ 铁律参数库**：内置严格的色温/焦段对照表，防止 AI 幻觉瞎编参数。
 - **⚙️ SOP 自动化工作流**：需求翻译 -> 查表 -> 填空 -> 渲染 -> 自检，步步为营。
 - **🚀 极速模式 (Fast Track)**：默认只输出参数表与提示词，高效出图。
-- **📚 内置标杆库**：包含 S1-S8 经典场景的高质量提示词范文，支持 Few-Shot 学习。
+- **📚 内置标杆库**：包含 **42+ 个场景**的高质量提示词范文，支持 Few-Shot 学习。覆盖古风、仙侠、武侠、赛博、日式、科幻等 6 大风格系列。
 
 ## 🚀 安装与使用
 
@@ -52,7 +56,7 @@ cp -r xiameng-prompt-engineer /path/to/your/agent/workspace/skills/
 
 - `SKILL.md`: 定义了 Agent 必须遵循的 5 步工作流 (SOP) 和红线自检逻辑。
 - `references/core-rules.md`: 存储硬性约束参数（色温表、焦段表）。
-- `references/prompt-database/`: 存储各场景的高质量提示词示例 (S1-S8)。
+- `references/prompt-database/`: 存储各场景的高质量提示词示例。采用按系列分文件夹管理结构 (如 `03-xianxia/`, `05-cyberpunk/` 等)。
 
 ## ⚠️ 使用须知 (Best Practices)
 
