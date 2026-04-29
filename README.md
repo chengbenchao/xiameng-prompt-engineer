@@ -4,13 +4,13 @@
 > 基于影视工业级 SOP 的 AI 绘画提示词生成 Skill。
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-v4.0-blue.svg)](https://github.com/chengbenchao/xiameng-prompt-engineer)
+[![Version](https://img.shields.io/badge/Version-v4.0.1-blue.svg)](https://github.com/chengbenchao/xiameng-prompt-engineer)
 
 ---
 
 ## 📦 版本说明
 
-**当前最新版本：v4.0 (2026-04-29)**
+**当前最新版本：v4.0.1 (2026-04-29)**
 
 ### 版本迭代规则
 | 版本位 | 类型 | 定义 |
@@ -22,6 +22,7 @@
 ### 更新日志
 | 版本 | 日期 | 更新内容 |
 |:---:|:---:|:---|
+| **v4.0.1** | 2026-04-29 | 📝 文档优化 — 搭配表改为 4 列格式，推荐服装补充名称 |
 | **v4.0** | 2026-04-29 | 🚀 场景库大重构 — 新增 **6 大风格系列 / 31 个全新场景**（S12-S42），场景总数达 **42+**；新增完整搭配指南 |
 | **v3.1** | 2026-04-28 | 服装库扩充至 17 套，补全 C01/C03/C04/C05/C08 参考示例图 |
 | **v3.0** | 2026-04-27 | 新增自然语言快速模式、S9-S11 场景、多图拼版功能 |
